@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <h1>Hello Reacts</h1>;
+  return <h1>Hello Reactss</h1>;
 }
 
 export default App;
